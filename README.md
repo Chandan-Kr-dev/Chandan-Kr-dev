@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi , Myself Chandan Kumar a passionate Developer From India Full stack Web developer and currently I am pursuing my B.Tech in Information Technology from Techno Main Salt Lake
+Hi , Myself Chandan Kumar a passionate Developer From India Full stack Web developer and a Game Developer and currently I am pursuing my B.Tech in Information Technology from Techno Main Salt Lake
 
 
 ## 🌐 Socials:
