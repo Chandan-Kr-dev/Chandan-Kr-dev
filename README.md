@@ -111,13 +111,13 @@ I specialize in:
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=chandan-kr-dev\&theme=radical\&no-frame=true\&margin-w=15)
+![](https://github-profile-trophy.vercel.app/?username=Chandan-Kr-dev\&theme=radical\&no-frame=true\&margin-w=15)
 
 ---
 
 # 👀 Profile Views
 
-![](https://visitcount.itsvg.in/api?id=chandan-kr-dev)
+![](https://visitcount.itsvg.in/api?id=Chandan-Kr-dev)
 
 ---
 
