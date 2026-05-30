@@ -4,7 +4,7 @@
 
 ### 💻 Full Stack Developer | 🎮 Unity Game Developer | 🚀 MERN Stack Developer
 
-🎓 B.Tech Information Technology Student at Techno Main Salt Lake (MAKAUT)
+🎓 B.Tech Information Technology Student at Techno Main Salt Lake 
 
 🌐 Portfolio: https://chandankrdev.vercel.app
 
@@ -111,13 +111,13 @@ I specialize in:
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Chandan-Kr-dev\&theme=radical\&no-frame=true\&margin-w=15)
+![](https://github-profile-trophy.vercel.app/?username=Chandan-Kr-dev&theme=tokyonight&no-frame=true)
 
 ---
 
 # 👀 Profile Views
 
-![](https://visitcount.itsvg.in/api?id=Chandan-Kr-dev)
+![Profile Views](https://komarev.com/ghpvc/?username=Chandan-Kr-dev&color=blueviolet)
 
 ---
 
