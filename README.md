@@ -1,23 +1,48 @@
 # 👋 Hi, I'm Chandan Kumar
 
-💻 Full-Stack Web Developer & 🎮 Game Developer from India
-🎓 B.Tech in Information Technology — Techno Main Salt Lake
+<div align="center">
 
-I enjoy building **scalable web applications, developer tools, and games**.
-Currently exploring **advanced backend systems, AI integrations, and game mechanics**.
+### 💻 Full Stack Developer | 🎮 Unity Game Developer | 🚀 MERN Stack Developer
 
----
+🎓 B.Tech Information Technology Student at Techno Main Salt Lake (MAKAUT)
 
-# 🚀 Current Focus
+🌐 Portfolio: https://chandankrdev.vercel.app
 
-* Building full-stack applications with **Next.js & MERN**
-* Developing **3D games using Unity**
-* Practicing **Data Structures & Algorithms**
-* Learning **scalable backend architecture**
+</div>
 
 ---
 
-# 🌐 Connect With Me
+## 🚀 About Me
+
+I am a passionate Full Stack Developer and Unity Game Developer from India who enjoys building scalable web applications, immersive gaming experiences, and innovative digital products.
+
+I specialize in:
+
+* ⚛️ MERN Stack Development
+* 🚀 Next.js Full Stack Applications
+* 🎮 Unity 3D Game Development
+* 🗄️ Backend Architecture & APIs
+* 📱 Responsive UI/UX Development
+* 🤖 AI-Powered Applications
+
+
+## 🏆 Achievements
+
+* 🥇 Two-Time National Finalist
+* 🎮 Published Unity Games for Android & Desktop
+* 💼 Worked as a Full Stack Developer at Unifie Mentor
+* 🚀 Built Multiple Full Stack Projects
+* 📦 Experience in Backend System Design
+
+---
+
+## 🌐 Portfolio & Links
+
+### 🌟 Portfolio Website
+
+➡️ https://chandankrdev.vercel.app
+
+### 📱 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/chandanck2409)
 
@@ -25,53 +50,83 @@ Currently exploring **advanced backend systems, AI integrations, and game mechan
 
 # 💻 Tech Stack
 
-### Languages
+## Languages
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic\&logo=javascript\&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic\&logo=python\&logoColor=ffdd54)
-
-### Frontend
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic\&logo=react\&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=plastic\&logo=next.js\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic\&logo=tailwind-css\&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=plastic\&logo=framer\&logoColor=blue)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic\&logo=express\&logoColor=%2361DAFB)
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic\&logo=mongodb\&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic\&logo=github\&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic\&logo=vercel\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic\&logo=render\&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 
 ---
 
-# 📊 GitHub Stats
+## Frontend
 
-![](https://github-readme-stats.vercel.app/api?username=chandan-kr-dev\&theme=tokyonight\&show_icons=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=chandan-kr-dev\&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chandan-kr-dev\&layout=compact\&theme=tokyonight)
-
----
-
-# 🏆 GitHub Achievements
-
-![](https://github-profile-trophy.vercel.app/?username=chandan-kr-dev\&theme=radical)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge\&logo=next.js\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge\&logo=framer\&logoColor=blue)
 
 ---
 
-# ✨ Visitor Count
+## Backend
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
+
+---
+
+## Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+---
+
+## Game Development
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge\&logo=unity\&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge\&logo=c-sharp\&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D.svg?style=for-the-badge\&logo=blender\&logoColor=white)
+
+---
+
+## Tools & Platforms
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge\&logo=render\&logoColor=white)
+
+---
+
+
+
+# 📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=Chandan-Kr-dev\&theme=tokyonight\&show_icons=true\&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Chandan-Kr-dev\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan-kr-dev\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=chandan-kr-dev\&theme=radical\&no-frame=true\&margin-w=15)
+
+---
+
+# 👀 Profile Views
 
 ![](https://visitcount.itsvg.in/api?id=chandan-kr-dev)
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+💡 Building futuristic experiences through code and creativity.
+
+🌐 Portfolio: https://chandankrdev.vercel.app
+
+</div>
