@@ -1,132 +1,123 @@
-# 👋 Hi, I'm Chandan Kumar
-
 <div align="center">
 
-### 💻 Full Stack Developer | 🎮 Unity Game Developer | 🚀 MERN Stack Developer
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Chandan%20Kumar&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20%7C%20Game%20Dev%20%7C%20MERN%20Stack&descAlignY=55&descSize=20" width="100%"/>
 
-🎓 B.Tech Information Technology Student at Techno Main Salt Lake 
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&repeat=true&width=650&height=60&lines=Full+Stack+Developer;Unity+Game+Developer;MERN+Stack+Developer;Building+Futuristic+Experiences" alt="Typing SVG" />
 
-🌐 Portfolio: https://chandankrdev.vercel.app
+<br/>
 
-</div>
+<!-- Social Badges -->
+<a href="https://chandan.ai.in">
+<img src="https://img.shields.io/badge/🌐_Portfolio-chandan.ai.in-6E40C9?style=for-the-badge"/>
+</a>
 
----
+<a href="https://instagram.com/chandanck2409">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-## 🚀 About Me
+<img src="https://komarev.com/ghpvc/?username=Chandan-Kr-dev&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS"/>
 
-I am a passionate Full Stack Developer and Unity Game Developer from India who enjoys building scalable web applications, immersive gaming experiences, and innovative digital products.
-
-I specialize in:
-
-* ⚛️ MERN Stack Development
-* 🚀 Next.js Full Stack Applications
-* 🎮 Unity 3D Game Development
-* 🗄️ Backend Architecture & APIs
-* 📱 Responsive UI/UX Development
-* 🤖 AI-Powered Applications
-
-
-## 🏆 Achievements
-
-* 🥇 Two-Time National Finalist
-* 🎮 Published Unity Games for Android & Desktop
-* 💼 Worked as a Full Stack Developer at Unifie Mentor
-* 🚀 Built Multiple Full Stack Projects
-* 📦 Experience in Backend System Design
+<br/><br/>
 
 ---
 
-## 🌐 Portfolio & Links
+## 👋 About Me
 
-### 🌟 Portfolio Website
+👋 Hi! I'm **Chandan Kumar**, a passionate **Full Stack Developer** and **Unity Game Developer** from **India 🇮🇳**
 
-➡️ https://chandankrdev.vercel.app
+🎓 Currently pursuing **B.Tech in Information Technology** at Techno Main Salt Lake
 
-### 📱 Socials
+💡 I love building **scalable web applications**, **immersive gaming experiences**, and **AI-powered digital products**
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/chandanck2409)
+🥇 Proud **Two-Time National Finalist** with published games on **Android & Desktop**
 
----
-
-# 💻 Tech Stack
-
-## Languages
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+☕ Fun fact — I turn coffee into code every single day!
 
 ---
 
-## Frontend
+## 🏆 Achievements & Highlights
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge\&logo=next.js\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge\&logo=framer\&logoColor=blue)
-
----
-
-## Backend
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
+| 🏅 | Achievement |
+|:---:|:---|
+| 🥇 | Two-Time National Finalist |
+| 🎮 | Published Unity Games — Android & Desktop |
+| 💼 | Full Stack Developer @ Unifie Mentor |
+| 🚀 | Multiple Production Full Stack Projects |
+| 🤖 | AI-Powered Application Builder |
 
 ---
 
-## Databases
+## 💻 Tech Stack
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+### 🗣️ Languages
+
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DFE1"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+
+### 🎨 Frontend
+
+<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue"/>
+
+### ⚙️ Backend & Database
+
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+### 🎮 Game Dev
+
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white"/>
+
+### 🛠️ Tools & Platforms
+
+<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white"/>
+
+---
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Chandan-Kr-dev&show_icons=true&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Chandan-Kr-dev&layout=compact&theme=tokyonight" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Chandan-Kr-dev&theme=tokyonight" />
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Chandan-Kr-dev&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&column=7"/>
 
 ---
 
-## Game Development
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge\&logo=unity\&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge\&logo=c-sharp\&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D.svg?style=for-the-badge\&logo=blender\&logoColor=white)
 
----
+## 💡 Random Dev Quote
 
-## Tools & Platforms
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge\&logo=render\&logoColor=white)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
+### ⭐ Thanks for visiting! Drop a star if you like what you see!
 
-# 📊 GitHub Statistics
+💡 *Building futuristic experiences through code and creativity.*
 
-![](https://github-readme-stats.vercel.app/api?username=Chandan-Kr-dev\&theme=tokyonight\&show_icons=true\&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Chandan-Kr-dev\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan-kr-dev\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Chandan-Kr-dev&theme=tokyonight&no-frame=true)
-
----
-
-# 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=Chandan-Kr-dev&color=blueviolet)
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-💡 Building futuristic experiences through code and creativity.
-
-🌐 Portfolio: https://chandankrdev.vercel.app
+<a href="https://chandan.ai.in">
+<img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-chandan.ai.in-6E40C9?style=for-the-badge"/>
+</a>
 
 </div>
