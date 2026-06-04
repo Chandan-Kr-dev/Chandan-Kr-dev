@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/🌐_Portfolio-chandan.ai.in-6E40C9?style=for-the-badge"/>
 </a>
 
-<a href="https://instagram.com/chandanck2409">
+<a href="https://instagram.com/chandankr2409">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
