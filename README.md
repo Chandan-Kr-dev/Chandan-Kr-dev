@@ -2,14 +2,17 @@
   Chandan Kumar — GitHub Profile README
   Theme: Midnight Developer
   bg #0D1117 · surface #161B22 · primary #00D9FF · secondary #8B5CF6
-  Keep this file in the repo root, and the ./assets folder beside it.
+
+  Every section is a self-contained SVG in ./assets (no external fonts or
+  scripts), so it renders the same on GitHub light and dark themes.
+  To change text, edit the matching .svg file.
 ============================================================ -->
 
 <div align="center">
 
 <img src="./assets/hero.svg" alt="Chandan Kumar — Software Developer, Full-Stack Developer, Game Developer" width="100%" />
 
-<br />
+<br /><br />
 
 <a href="https://chandan.ai.in"><img src="https://img.shields.io/badge/Portfolio-chandan.ai.in-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00D9FF&labelColor=161B22&color=30363D" alt="Portfolio" /></a>
 <a href="https://kalpkantgames.vercel.app/"><img src="https://img.shields.io/badge/Kalpkant_Games-Play-0D1117?style=for-the-badge&logo=unity&logoColor=8B5CF6&labelColor=161B22&color=30363D" alt="Kalpkant Games" /></a>
@@ -20,90 +23,25 @@
 
 <br />
 
-## About
-
-I'm Chandan, a software developer and indie game developer from India. I build across the stack, from backend systems and web apps to gameplay mechanics and 3D environments, and I like understanding how things work under the hood.
-
-I learn by building: make it, break it, fix it, ship it. Right now that means sharpening my engineering fundamentals and taking independent projects from idea to working product under **Kalpkant Games**. The long-term goal is a game studio of my own, original games, and technology worth building.
+<img src="./assets/header-about.svg" alt="About" width="100%" />
+<img src="./assets/about.svg" alt="I build software and games, and I like knowing how they work. Full-stack apps, backend systems, gameplay mechanics and 3D environments. Currently sharpening engineering fundamentals and shipping independent projects under Kalpkant Games, with the goal of a game studio of my own." width="100%" />
 
 <br />
 
-## Currently Building & Exploring
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <b>🎮 Indie games</b><br />
-      <sub>Gameplay systems and original ideas under Kalpkant Games.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <b>🌐 Full-stack apps</b><br />
-      <sub>Modern web applications, APIs and backend design.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <b>🧠 DSA & problem solving</b><br />
-      <sub>Strengthening fundamentals, one problem at a time.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <b>🕹️ Game design</b><br />
-      <sub>Interactive experiences and mechanics that feel good to play.</sub>
-    </td>
-    <td valign="top">
-      <b>🏗️ System architecture</b><br />
-      <sub>Learning how larger software systems are structured.</sub>
-    </td>
-    <td valign="top">
-      <b>🧊 3D & game tech</b><br />
-      <sub>Experimenting with 3D development and game technologies.</sub>
-    </td>
-  </tr>
-</table>
+<img src="./assets/header-focus.svg" alt="Currently building and exploring" width="100%" />
+<img src="./assets/focus.svg" alt="Indie games, full-stack apps, DSA and problem solving, game design, system architecture, 3D and game tech" width="100%" />
 
 <br />
 
-## Tech Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=java,cpp,cs,js,ts,py&theme=dark" alt="Java, C++, C#, JavaScript, TypeScript, Python" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&theme=dark" alt="React, Next.js, HTML5, CSS3, Tailwind CSS, Vite" />
-<br />
-<img src="https://img.shields.io/badge/Shadcn_UI-161B22?style=flat-square&logo=shadcnui&logoColor=E6EDF3" alt="Shadcn UI" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js, Express.js" />
-<br />
-<img src="https://img.shields.io/badge/REST_APIs-161B22?style=flat-square&logoColor=00D9FF&labelColor=161B22&color=30363D" alt="REST APIs" />
-<img src="https://img.shields.io/badge/JWT_Auth-161B22?style=flat-square&logo=jsonwebtokens&logoColor=00D9FF" alt="JWT Authentication" />
-
-**Databases & ORM**
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,supabase&theme=dark" alt="MongoDB, PostgreSQL, Prisma, Supabase" />
-<br />
-<img src="https://img.shields.io/badge/Mongoose-161B22?style=flat-square&logo=mongoose&logoColor=E6EDF3" alt="Mongoose" />
-<img src="https://img.shields.io/badge/Neon-161B22?style=flat-square&logo=neon&logoColor=00D9FF" alt="Neon" />
-
-**Game Development & 3D**
-
-<img src="https://skillicons.dev/icons?i=unity,godot,blender&theme=dark" alt="Unity, Godot, Blender" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,visualstudio,cmake&theme=dark" alt="Git, GitHub, Postman, Linux, VS Code, Visual Studio, CMake" />
+<img src="./assets/header-stack.svg" alt="Tech stack" width="100%" />
+<img src="./assets/stack.svg" alt="Languages: Java, C++, C#, JavaScript, TypeScript, Python. Frontend: React, Next.js, HTML5, CSS3, Tailwind CSS, Shadcn UI, Vite. Backend: Node.js, Express.js, REST APIs, JWT. Databases and ORM: MongoDB, PostgreSQL, Mongoose, Prisma, Supabase, Neon. Game dev and 3D: Unity, Godot, Blender. Tools: Git, GitHub, Postman, Linux, VS Code, Visual Studio, CMake." width="100%" />
 
 <br />
 
-## Featured Projects
+<img src="./assets/header-projects.svg" alt="Featured projects" width="100%" />
+<img src="./assets/arcade.svg" alt="Level select: The Last Room, MazeEscape, Kalpkant Games, plus prototypes Don't Let It See You and One Move" width="100%" />
 
 <div align="center">
-
-<img src="./assets/arcade.svg" alt="Level select: The Last Room, MazeEscape, Kalpkant Games, plus prototypes Don't Let It See You and One Move" width="100%" />
 
 <a href="https://kalpkantgames.vercel.app/"><img src="https://img.shields.io/badge/Play_on-Kalpkant_Games-0D1117?style=for-the-badge&logo=unity&logoColor=00D9FF&labelColor=161B22&color=30363D" alt="Visit Kalpkant Games" /></a>
 
@@ -142,20 +80,12 @@ My independent game development brand and platform, built to showcase my games, 
 
 <br />
 
-## Experience & Achievements
-
-| | |
-|---|---|
-| 🏆 **SIH 2024 National Finalist** | Team Judicio |
-| 🥇 **2× National-Level Finalist** | Hackathons & competitions |
-| 💼 **Full-Stack Developer** | Unifie Mentor *(former)* |
-| ⚙️ **Backend Lead** | Geekonix Official |
-| 🌱 **Google Developer Group** | Techno Main Salt Lake |
-| 🎤 **Event Host** | Intra-college Web Development event |
+<img src="./assets/header-experience.svg" alt="Experience and achievements" width="100%" />
+<img src="./assets/experience.svg" alt="SIH 2024 National Finalist with Team Judicio. Two-time national-level finalist. Backend Lead at Geekonix Official. Former Full-Stack Developer at Unifie Mentor. Google Developer Group, Techno Main Salt Lake. Hosted an intra-college web development event." width="100%" />
 
 <br />
 
-## GitHub Stats
+<img src="./assets/header-stats.svg" alt="GitHub stats" width="100%" />
 
 <div align="center">
 
@@ -168,29 +98,23 @@ My independent game development brand and platform, built to showcase my games, 
 
 <br />
 
-## Contribution Activity
+<img src="./assets/header-activity.svg" alt="Contribution activity" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandan-Kr-dev&bg_color=0D1117&color=8B949E&line=00D9FF&point=E6EDF3&area=true&area_color=8B5CF6&hide_border=true&hide_title=true" alt="Chandan-Kr-dev contribution activity graph" width="100%" />
+
+<br /><br />
+
+<img src="./assets/header-connect.svg" alt="Connect" width="100%" />
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandan-Kr-dev&bg_color=0D1117&color=8B949E&line=00D9FF&point=E6EDF3&area=true&area_color=8B5CF6&hide_border=true&hide_title=true" alt="Chandan-Kr-dev contribution activity graph" width="100%" />
+<a href="https://github.com/Chandan-Kr-dev"><img src="./assets/connect-github.svg" alt="GitHub: Chandan-Kr-dev" width="49%" /></a>
+<a href="https://www.linkedin.com/in/chandankr-dev/"><img src="./assets/connect-linkedin.svg" alt="LinkedIn: chandankr-dev" width="49%" /></a>
+<a href="https://chandan.ai.in"><img src="./assets/connect-portfolio.svg" alt="Portfolio: chandan.ai.in" width="49%" /></a>
+<a href="https://kalpkantgames.vercel.app/"><img src="./assets/connect-kalpkant.svg" alt="Kalpkant Games: kalpkantgames.vercel.app" width="49%" /></a>
 
 </div>
 
 <br />
 
-## Connect
-
-<div align="center">
-
-<a href="https://github.com/Chandan-Kr-dev"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=E6EDF3" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/chandankr-dev/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a>
-<a href="https://chandan.ai.in"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=8B5CF6" alt="Portfolio" /></a>
-<a href="https://kalpkantgames.vercel.app/"><img src="https://img.shields.io/badge/Kalpkant_Games-161B22?style=for-the-badge&logo=unity&logoColor=00D9FF" alt="Kalpkant Games" /></a>
-
-<br /><br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:8B5CF6,100:0D1117&section=footer" alt="" width="100%" />
-
-<sub>Built with curiosity · Chandan Kumar · India</sub>
-
-</div>
+<img src="./assets/footer.svg" alt="Chandan Kumar — Developer by craft. Game creator by passion. Building ideas into reality." width="100%" />
