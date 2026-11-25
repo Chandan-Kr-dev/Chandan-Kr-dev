@@ -1,62 +1,41 @@
-name: Update profile stats
+name: Update GitHub Profile Statistics
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # twice a day
-  workflow_dispatch:           # lets you run it by hand from the Actions tab
+    - cron: "17 4 * * *"
+  workflow_dispatch:
   push:
     branches: [main]
     paths:
-      - "scripts/generate_stats.py"
-      - ".github/workflows/profile-stats.yml"
+      - scripts/generate_stats.py
+      - .github/workflows/profile-stats.yml
 
 permissions:
   contents: write
 
 jobs:
-  stats-dashboard:
-    name: Stats dashboard
+  generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-
-      - name: Generate assets/stats-dashboard.svg
-        run: python scripts/generate_stats.py
+      - name: Generate statistics SVG
         env:
-          GH_USER: ${{ github.repository_owner }}
-          # Optional: add a PROFILE_TOKEN secret (classic PAT, read:user scope)
-          # to include private contributions. Falls back to the built-in token.
-          GH_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
-
-      - name: Commit if changed
+          GH_USERNAME: Chandan-Kr-dev
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_stats.py
+      - name: Commit dashboard if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/stats-dashboard.svg
-          if ! git diff --cached --quiet; then
-            git commit -m "chore: refresh stats dashboard"
+          if git diff --cached --quiet; then
+            echo "Dashboard unchanged; skipping commit."
+          else
+            git commit -m "chore: update GitHub profile statistics"
             git push
           fi
-
-  snake:
-    name: Contribution snake
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake-dark.svg?color_snake=#00D9FF&color_dots=#161B22,#12495C,#0B8AA8,#00D9FF,#8B5CF6
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
