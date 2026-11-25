@@ -21,7 +21,7 @@ def request(url, data=None):
         raise RuntimeError(f"GitHub API returned HTTP {e.code}: {body[:500]}")
 
 # GraphQL provides a complete contribution calendar and contribution totals.
-query = '''query($login:String!){ user(login:$login){ contributionsCollection(from: $from, to: $to){
+query = '''query($login:String!, $from:DateTime!, $to:DateTime!){ user(login:$login){ contributionsCollection(from: $from, to: $to){
  totalCommitContributions totalIssueContributions totalPullRequestContributions totalPullRequestReviewContributions
  contributionCalendar{ totalContributions weeks{ contributionDays{ date contributionCount } } }
  } } }'''
